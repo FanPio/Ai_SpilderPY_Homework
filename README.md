@@ -5,4 +5,4 @@
 ## ADT110140陳秉凡
 
 # 圖片
-[!image](homework.png)
+![image](homework.png)
